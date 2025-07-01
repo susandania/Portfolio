@@ -7,7 +7,7 @@ title: Susan Dania
 
 Hi, I'm **Susan Dania** — passionate about data and insights.
 
-### 🧠 Skills
+# Skills
 - Data Analysis
 - SQL, Excel, Power BI, Tableau
 - Data Visualization & Reporting
