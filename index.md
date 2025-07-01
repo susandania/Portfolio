@@ -5,7 +5,7 @@ title: Susan Dania
 
 # Welcome to My Portfolio
 
-Hi, I'm **Susan Dania** — passionate about data and insights.
+Hi, I'm **Susan Dania** - passionate about data and insights.
 
 # Skills
 - Data Analysis
