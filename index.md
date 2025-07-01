@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Susan Dania
-Logo: Susan.jpg
 ---
 
 # Welcome to My Portfolio
+Logo: Susan.jpg
+theme: jekyll-theme-minimal
 
 Hi, I'm **Susan Dania** — passionate about data and insights.
 
