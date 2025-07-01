@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Susan Dania
+Logo: 
 ---
 
 # Welcome to My Portfolio
