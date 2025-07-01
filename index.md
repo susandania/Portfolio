@@ -4,8 +4,6 @@ title: Susan Dania
 ---
 
 # Welcome to My Portfolio
-Logo: /assets/img/Susan.jpg
-theme: jekyll-theme-minimal
 
 Hi, I'm **Susan Dania** — passionate about data and insights.
 
