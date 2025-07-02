@@ -7,10 +7,10 @@ title: Susan Dania
 
 Hi, I’m Susan Dania - a data professional who thrives on transforming raw data into meaningful, strategic insights that drive smarter business decisions 😊.
 
-With hands-on experience in **SQL, Excel, Tableau, Python**, and **data cleaning/wrangling**, I help businesses uncover trends, track KPIs, and tell compelling data stories. My approach blends curiosity with technical skill — making data not just accurate, but actionable.
+With hands-on experience in SQL, Excel, Tableau, Python and data cleaning, I help businesses uncover trends, track KPIs, and tell compelling data stories. My approach blends curiosity with technical skill — making data not just accurate, but actionable.
 
 
-# Skills
+# Competencies
 - Data Analysis
 - SQL, Excel, Tableau, Python
 - Data Visualization & Reporting
