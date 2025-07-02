@@ -29,38 +29,14 @@ With hands-on experience in **SQL, Excel, Tableau, Python**, and **data cleaning
 
 
 
-## Contact Details
+# Contact Me
 
-Letâ€™s connect and see how we can make a difference together!
-<table>
-  <tbody>
-    <tr>
-      <td>ðŸ“§</td>
-      <td><a href="mailto:susan.dania@outlook.com">susan.dania@outlook.com.com</a></td>
-    </tr>
-    <tr>
-      <td>ðŸ“ž</td>
-    </tr>
-    <tr>
-      <td>ðŸ“</td>
-      <td> 📍Vancouver|Canada </td>
-    </tr>
-    <tr>
-      <td>â¬‡ï¸</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
-    </tr>
-    <tr>
-      <td>ðŸŒ</td>
-      <td><a href="www.linkedin.com/in/susandania">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>ðŸ“º</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
-    </tr>
-  </tbody>
-</table>
+🤝 I'm always open to new opportunities, collaborations, or simply connecting with like-minded professionals. Feel free to explore my work and reach out!
 
-🤝 Open to collaboration and new opportunities | Feel free to explore my work and reach out!
+- 📍 **Location:** [Vancouver], [Canada]
+- ✉️ **Email:** [susan.dania@outlook.com](susan.dania@outlook.com)
+- 💼 **LinkedIn:** [www.linkedin.com/in/susandania](https://www.linkedin.com/in/susandania)
+- 📄 **Resume/CV:** [Download My CV](./assets/docs/SusanDania_CV.pdf)
 
 
 
