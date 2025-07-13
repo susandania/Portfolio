@@ -35,6 +35,8 @@ With hands-on experience in SQL, Excel, Tableau, Python and data cleaning, I hel
 
 - 📍 **Location:** [Vancouver], [Canada]
 - ✉️ **Email:** [susan.dania@outlook.com](susan.dania@outlook.com)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20">](https://www.linkedin.com/in/susandania)
+ **LinkedIn:** [www.linkedin.com/in/susandania](https://www.linkedin.com/in/susandania)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username)
 - 💼 **LinkedIn:** [www.linkedin.com/in/susandania](https://www.linkedin.com/in/susandania)
 - 📄 **Resume/CV:** [Download My CV](./assets/docs/SusanDania_CV.pdf)
