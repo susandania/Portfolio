@@ -33,7 +33,7 @@ With hands-on experience in SQL, Excel, Tableau, Python and data cleaning, I hel
 
 🤝 I'm always open to new opportunities, collaborations, or simply connecting with like-minded professionals. Feel free to explore my work and reach out!
 
-- [<img src="...in.png" width="18">](https://...) &nbsp;[LinkedIn](https://...)
+- [<img src="https://img.icons8.com/ios-filled/25/0077B5/linkedin.png" alt="LinkedIn Logo"/>](https://www.linkedin.com/in/susandania)
 - 📍 Vancouver, Canada
 - ✉️ [susan.dania@outlook.com](susan.dania@outlook.com)
 - 📄[Download My CV](./assets/docs/SusanDania_CV.pdf)
